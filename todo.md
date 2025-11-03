@@ -1,0 +1,2 @@
+- integrate socket.io with social app
+- integrate with FE
